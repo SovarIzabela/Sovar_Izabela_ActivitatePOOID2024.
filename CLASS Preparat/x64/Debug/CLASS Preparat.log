@@ -1,0 +1,3 @@
+﻿  preparat.cpp
+C:\Users\Iza\source\repos\CLASS Preparat\preparat.cpp(73,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CLASS Preparat.vcxproj -> C:\Users\Iza\source\repos\CLASS Preparat\x64\Debug\CLASS Preparat.exe
